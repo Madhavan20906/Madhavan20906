@@ -1,210 +1,271 @@
-<div>
-<img src="https://github.com/Madhavan20906.png" width="180" style="border-radius:50%;" alt="Madhavan"/>
+<div align="center">
 
 MADHAVAN
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI+systems;Exploring+multimodal+interfaces;Turning+ideas+into+working+software;Always+building+something+new" alt="Typing animation"/>
+AI / ML  ·  SYSTEMS  ·  SOFTWARE ENGINEERING
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+systems%2C+not+just+projects.;AI+%7C+Multimodal+Systems+%7C+Automation;Understand+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Rebuild" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="72%"/>
-
-<br><br>
-
-AI   MULTIMODAL   SOFTWARE SYSTEMS   EXPERIMENTS
+<img src="https://komarev.com/ghpvc/?username=Madhavan20906&style=for-the-badge&color=111827&label=PROFILE+SIGNALS" />
 
 </div>
 
 <div align="center">
 
-LIVE ACTIVITY
+SYSTEM ONLINE
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavan20906&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=MADHAVAN%20%2F%2F%20ACTIVITY%20SIGNAL" width="96%" alt="GitHub activity graph"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhavan20906&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=SYSTEM%20ACTIVITY" width="49%" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=Madhavan20906&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub streak"/>
-
-</div>
-
-<div align="center">
-
-CONTRIBUTION SIGNAL
-
-<img src="https://ghchart.rshah.org/58a6ff/Madhavan20906" width="96%" alt="GitHub contribution graph"/>
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   AI SYSTEMS             ● ONLINE                            │
+│   MULTIMODAL AI          ● ONLINE                            │
+│   ANDROID SYSTEMS        ● ONLINE                            │
+│   BACKEND                ● BUILDING                          │
+│   ALGORITHMS             ● RUNNING                           │
+│                                                              │
+│   MODE                   BUILD / EXPERIMENT / IMPROVE        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
 </div>
 
-<div align="center">
+01 / PROJECT UNIVERSE
 
-PROJECT UNIVERSE
-
-Three systems currently live in the lab.
-
-</div>
+These are the projects that currently exist in my public GitHub.More systems will enter the universe as they become ready.
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-<div align="center">
+🤖 Android Voice Assistant
 
-🤖
+VOICE → ASSISTANT → ACTION
 
-Android Voice Assistant
+An Android voice-assistant system built around foreground services and notifications.
 
-VOICE → ASSIST → ACTION
+VOICE
+  │
+  ▼
+ASSIST
+  │
+  ▼
+ACTION
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39E58C?style=flat-square&labelColor=0d1117"/>
+C++ · Android · Voice
 
-</div>
+STATUS: ● ACTIVE
 
-A voice-first Android assistant built around foreground services and notifications.
-
-        ┌─────────┐
-        │  VOICE  │
-        └────┬────┘
-             │
-             ▼
-        ┌─────────┐
-        │ ASSIST  │
-        └────┬────┘
-             │
-             ▼
-        ┌─────────┐
-        │ ACTION  │
-        └─────────┘
-
-<div align="center">
-
-<a href="https://github.com/Madhavan20906/Android-Voice-Assistant">EXPLORE ↗</a>
-
-</div>
+<a href="https://github.com/Madhavan20906/Android-Voice-Assistant">EXPLORE REPOSITORY ↗</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
+🧠 AI Multimodal Assistant
 
-🧠
+VOICE + TEXT + IMAGE + DOCUMENT
 
-AI Multimodal Assistant
+A multimodal AI assistant exploring intelligent interaction across multiple input types, document analysis, OCR and visual simulations.
 
-VOICE + TEXT + IMAGE + DOCS
+VOICE ─┐
+TEXT  ─┼─► AI CORE
+IMAGE ─┤
+DOC   ─┘
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39E58C?style=flat-square&labelColor=0d1117"/>
+TypeScript · AI · Multimodal
 
-</div>
+STATUS: ● ACTIVE
 
-A multimodal AI assistant combining voice, text, images, documents, OCR and visual simulation.
-
- VOICE ──┐
- TEXT  ──┤
- IMAGE ──┼──► AI CORE
- DOCS  ──┘
-             │
-             ▼
-          RESPONSE
-
-<div align="center">
-
-<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">EXPLORE ↗</a>
-
-</div>
+<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">EXPLORE REPOSITORY ↗</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
-
-⚙️
-
-Enterprise AI OS Copilot
+⚙️ Enterprise AI OS Copilot
 
 AI → WORKFLOW → ACTION
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39E58C?style=flat-square&labelColor=0d1117"/>
+An enterprise-oriented AI copilot concept focused on intelligent assistance and system workflows.
 
-</div>
-
-An enterprise AI copilot concept focused on intelligent assistance and workflows.
-
- INPUT
-   │
-   ▼
+INPUT
+  │
+  ▼
 COPILOT
-   │
-   ▼
+  │
+  ▼
 WORKFLOW
-   │
-   ▼
- ACTION
+  │
+  ▼
+ACTION
 
-<div align="center">
+AI · Enterprise · Copilot
 
-<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">EXPLORE ↗</a>
+STATUS: ● ACTIVE
 
-</div>
+<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">EXPLORE REPOSITORY ↗</a>
 
 </td>
-
 </tr>
 </table>
 
+02 / CODE ENGINE
+
 <div align="center">
 
-PROJECT ACTIVITY
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/ANDROID_VOICE_ASSISTANT-●%20ACTIVE-58A6FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AI_MULTIMODAL_ASSISTANT-●%20ACTIVE-A78BFA?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ENTERPRISE_AI_COPILOT-●%20ACTIVE-39E58C?style=for-the-badge&labelColor=0d1117" />
+900+
 
-<br><br>
+LEETCODE
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,react,flask,flutter,nodejs,mongodb,sqlite,git,github,docker" alt="Technology stack"/>
+Problems solved
+
+</td>
+<td align="center" width="33%">
+
+2400+
+
+CODECHEF
+
+Problems solved
+
+</td>
+<td align="center" width="33%">
+
+1712
+
+LEETCODE RATING
+
+Contest rating
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhavan20906&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Madhavan20906&theme=github-dark-blue&hide_border=true" width="49%"/>
 
 </div>
 
-<div align="center">
-
-ACTIVITY FLOW
-
-                         MADHAVAN.OS
-
-             ┌────────────────────────────┐
-             │                            │
-             │       IDEAS / EXPERIMENTS  │
-             │              │             │
-             │              ▼             │
-             │          BUILDING          │
-             │              │             │
-             │              ▼             │
-             │          SHIPPING          │
-             │              │             │
-             │              ▼             │
-             │         ITERATING           │
-             │              │             │
-             └──────────────┼─────────────┘
-                            │
-                            ▼
-                       NEXT SYSTEM
-
-</div>
+03 / ACTIVITY SIGNAL
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0d1117,100:111827&animation=twinkling" width="100%"/>
-
-THE PROFILE IS THE INTERFACE.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=39E58C&center=true&vCenter=true&width=700&lines=More+systems+will+appear+here.;The+lab+is+still+being+built.;Stay+curious." alt="Closing animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavan20906&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=MADHAVAN%20%2F%2F%20ENGINEERING%20ACTIVITY" width="96%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Madhavan20906&style=for-the-badge&color=111827&label=VISITORS" alt="Profile visitors"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavan20906&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="42%"/>
+
+</div>
+
+04 / ENGINEERING STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,react,flask,flutter,nodejs,mongodb,sqlite,git,github,docker" />
+
+</div>
+
+05 / HOW I BUILD
+
+             ┌──────────────┐
+             │    PROBLEM   │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │  UNDERSTAND  │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │    DESIGN    │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │     BUILD    │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │    BREAK     │
+             └──────┬───────┘
+                    │
+                    ▼
+             ┌──────────────┐
+             │   IMPROVE    │
+             └──────┬───────┘
+                    │
+                    └──────────────► SHIP
+
+06 / ENGINEERING MINDSET
+
+<div align="center">
+
+Don't just use the model. Understand the system around it.
+
+Don't just make it work. Understand why it works.
+
+Don't memorize the solution. Understand the mechanism.
+
+Don't build projects just to have projects. Build systems worth maintaining.
+
+</div>
+
+07 / CURRENT VECTOR
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=39E58C&center=true&vCenter=true&width=760&lines=Exploring+AI+systems;Building+ML+infrastructure;Engineering+developer+tools;Learning+by+shipping" />
+
+</div>
+
+AI SYSTEMS          ████████████████████  ACTIVE
+MULTIMODAL AI       ███████████████████   ACTIVE
+BACKEND             ████████████████      BUILDING
+AUTOMATION          ███████████████       EXPLORING
+SYSTEM DESIGN       █████████████         EVOLVING
+
+08 / THE INTERACTIVE LAYER
+
+<div align="center">
+
+The README is the map.
+
+The projects are the systems.
+
+The next layer is interactive.
+
+<br>
+
+MADHAVAN // PROJECT UNIVERSE
+
+<br>
+
+Hover the projects → meet the system behind them.
+
+</div>
+
+Note: GitHub profile READMEs cannot run arbitrary JavaScript or custom CSS. The full cursor-reactive experience — including the PFP bursting out of a repository and reacting to hover — belongs in a GitHub Pages site linked from this profile.
+
+<div align="center">
+
+BUILD → LEARN → BREAK → REBUILD
+
+<br>
+
+<a href="https://github.com/Madhavan20906">
+<img src="https://img.shields.io/badge/OPEN_SOURCE-MADHAVAN20906-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+SYSTEM STATUS: ONLINE
 
 </div>
