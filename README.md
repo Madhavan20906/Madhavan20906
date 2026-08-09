@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/Madhavan20906.png" width="180" style="border-radius:50%;" alt="Madhavan"/>
+<a href="https://github.com/Madhavan20906">
+<img src="https://github.com/Madhavan20906.png" width="180" alt="Madhavan"/>
+</a>
 
 MADHAVAN
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI+systems;Exploring+multimodal+interfaces;Turning+ideas+into+working+software;Always+building+something+new" alt="Typing animation"/>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="72%"/>
-
-<br><br>
 
 AI   MULTIMODAL   SOFTWARE SYSTEMS   EXPERIMENTS
 
@@ -22,16 +20,12 @@ LIVE ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavan20906&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=MADHAVAN%20%2F%2F%20ACTIVITY%20SIGNAL" width="96%" alt="GitHub activity graph"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Madhavan20906&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=SYSTEM%20ACTIVITY" width="49%" alt="GitHub stats"/>
 <img src="https://streak-stats.demolab.com?user=Madhavan20906&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub streak"/>
 
-</div>
-
-<div align="center">
-
-CONTRIBUTION SIGNAL
+<br><br>
 
 <img src="https://ghchart.rshah.org/58a6ff/Madhavan20906" width="96%" alt="GitHub contribution graph"/>
 
@@ -41,128 +35,153 @@ CONTRIBUTION SIGNAL
 
 PROJECT UNIVERSE
 
-Three systems currently live in the lab.
+Touch / click a project below.
+
+Your PFP appears. Click the PFP to enter that repository.
 
 </div>
 
-<table>
-<tr>
+<br>
 
-<td width="33%" valign="top">
+<!-- PROJECT 01 -->
+
+<details>
+<summary>
+<b>🤖 ANDROID VOICE ASSISTANT</b>
+&nbsp; · &nbsp;
+<code>VOICE → ASSIST → ACTION</code>
+</summary>
+
+<br>
 
 <div align="center">
 
-🤖
+<a href="https://github.com/Madhavan20906/Android-Voice-Assistant">
+<img src="https://github.com/Madhavan20906.png" width="230" alt="Open Android Voice Assistant repository"/>
+</a>
 
-Android Voice Assistant
+<br>
 
-VOICE → ASSIST → ACTION
+👆 Click my PFP to open the repository
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39E58C?style=flat-square&labelColor=0d1117"/>
+ANDROID · VOICE · FOREGROUND SERVICE · NOTIFICATIONS
 
-</div>
+<br>
+
+          ┌─────────────┐
+          │    VOICE    │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │   ASSIST    │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │   ACTION    │
+          └─────────────┘
 
 A voice-first Android assistant built around foreground services and notifications.
 
-        ┌─────────┐
-        │  VOICE  │
-        └────┬────┘
-             │
-             ▼
-        ┌─────────┐
-        │ ASSIST  │
-        └────┬────┘
-             │
-             ▼
-        ┌─────────┐
-        │ ACTION  │
-        └─────────┘
-
-<div align="center">
-
-<a href="https://github.com/Madhavan20906/Android-Voice-Assistant">EXPLORE ↗</a>
+<a href="https://github.com/Madhavan20906/Android-Voice-Assistant">OPEN ANDROID VOICE ASSISTANT ↗</a>
 
 </div>
 
-</td>
+</details>
 
-<td width="33%" valign="top">
+<br>
+
+<!-- PROJECT 02 -->
+
+<details>
+<summary>
+<b>🧠 AI MULTIMODAL ASSISTANT</b>
+&nbsp; · &nbsp;
+<code>VOICE + TEXT + IMAGE + DOCS</code>
+</summary>
+
+<br>
 
 <div align="center">
 
-🧠
+<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
+<img src="https://github.com/Madhavan20906.png" width="230" alt="Open AI Multimodal Assistant repository"/>
+</a>
 
-AI Multimodal Assistant
+<br>
 
-VOICE + TEXT + IMAGE + DOCS
+👆 Click my PFP to open the repository
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39E58C?style=flat-square&labelColor=0d1117"/>
+TYPESCRIPT · AI · VOICE · VISION · DOCUMENTS
 
-</div>
-
-A multimodal AI assistant combining voice, text, images, documents, OCR and visual simulation.
+<br>
 
  VOICE ──┐
  TEXT  ──┤
- IMAGE ──┼──► AI CORE
+ IMAGE ──┼──►  AI CORE  ──► RESPONSE
  DOCS  ──┘
-             │
-             ▼
-          RESPONSE
 
-<div align="center">
+A multimodal AI assistant combining voice, text, images, documents, OCR and visual simulation.
 
-<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">EXPLORE ↗</a>
+<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">OPEN AI MULTIMODAL ASSISTANT ↗</a>
 
 </div>
 
-</td>
+</details>
 
-<td width="33%" valign="top">
+<br>
+
+<!-- PROJECT 03 -->
+
+<details>
+<summary>
+<b>⚙️ ENTERPRISE AI OS COPILOT</b>
+&nbsp; · &nbsp;
+<code>AI → WORKFLOW → ACTION</code>
+</summary>
+
+<br>
 
 <div align="center">
 
-⚙️
+<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
+<img src="https://github.com/Madhavan20906.png" width="230" alt="Open Enterprise AI Operating System Copilot repository"/>
+</a>
 
-Enterprise AI OS Copilot
+<br>
 
-AI → WORKFLOW → ACTION
+👆 Click my PFP to open the repository
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39E58C?style=flat-square&labelColor=0d1117"/>
+AI · ENTERPRISE · COPILOT · WORKFLOWS
+
+<br>
+
+       INPUT
+         │
+         ▼
+     ┌─────────┐
+     │ COPILOT │
+     └────┬────┘
+          ↓
+      WORKFLOW
+          │
+          ▼
+        ACTION
+
+An enterprise-oriented AI copilot concept focused on intelligent assistance and workflows.
+
+<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">OPEN ENTERPRISE AI COPILOT ↗</a>
 
 </div>
 
-An enterprise AI copilot concept focused on intelligent assistance and workflows.
-
- INPUT
-   │
-   ▼
-COPILOT
-   │
-   ▼
-WORKFLOW
-   │
-   ▼
- ACTION
+</details>
 
 <div align="center">
 
-<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">EXPLORE ↗</a>
+PROJECT SIGNAL
 
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-PROJECT ACTIVITY
-
-<img src="https://img.shields.io/badge/ANDROID_VOICE_ASSISTANT-●%20ACTIVE-58A6FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AI_MULTIMODAL_ASSISTANT-●%20ACTIVE-A78BFA?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/ENTERPRISE_AI_COPILOT-●%20ACTIVE-39E58C?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ANDROID_VOICE_ASSISTANT-●%20ACTIVE-58A6FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/AI_MULTIMODAL_ASSISTANT-●%20ACTIVE-A78BFA?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ENTERPRISE_AI_COPILOT-●%20ACTIVE-39E58C?style=for-the-badge&labelColor=0d1117"/>
 
 <br><br>
 
@@ -172,40 +191,22 @@ PROJECT ACTIVITY
 
 <div align="center">
 
-ACTIVITY FLOW
-
                          MADHAVAN.OS
 
-             ┌────────────────────────────┐
-             │                            │
-             │       IDEAS / EXPERIMENTS  │
-             │              │             │
-             │              ▼             │
-             │          BUILDING          │
-             │              │             │
-             │              ▼             │
-             │          SHIPPING          │
-             │              │             │
-             │              ▼             │
-             │         ITERATING           │
-             │              │             │
-             └──────────────┼─────────────┘
-                            │
-                            ▼
-                       NEXT SYSTEM
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0d1117,100:111827&animation=twinkling" width="100%"/>
+              ┌────────────────────────┐
+              │   ACTIVITY             │
+              │      ↓                 │
+              │   BUILDING             │
+              │      ↓                 │
+              │   SHIPPING             │
+              │      ↓                 │
+              │   ITERATING            │
+              │      ↓                 │
+              │   NEXT SYSTEM          │
+              └────────────────────────┘
 
 THE PROFILE IS THE INTERFACE.
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=39E58C&center=true&vCenter=true&width=700&lines=More+systems+will+appear+here.;The+lab+is+still+being+built.;Stay+curious." alt="Closing animation"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Madhavan20906&style=for-the-badge&color=111827&label=VISITORS" alt="Profile visitors"/>
 
 </div>
