@@ -1,347 +1,398 @@
 <div align="center">
 
-MADHAVAN
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MADHAVAN&fontSize=82&fontColor=ffffff&color=0:0f172a,50:111827,100:020617&stroke=58a6ff&strokeWidth=2&animation=twinkling&desc=ENGINEERING%20%2F%2F%20AI%20%2F%2F%20SYSTEMS&descAlignY=72&descSize=18" width="100%"/>
 
-Computer Science Engineer · AI/ML · Systems · Software Engineering
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+systems%2C+not+just+projects.;AI+%2B+ML+%2B+Software+Engineering;Turning+ideas+into+working+machines.;Understand+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Rebuild" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems;Engineering+ML+pipelines;Turning+ideas+into+working+software;Always+learning.+Always+building." />
+<br>
 
-<br/>
+COMPUTER SCIENCE ENGINEERING  ·  AI / ML  ·  SYSTEMS  ·  PROBLEM SOLVING
 
-<img src="https://komarev.com/ghpvc/?username=Madhavan20906&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
-
-</div>
-
-<div align="center">
-
-⚡ ENGINEERING PROFILE
-
-<table>
-<tr>
-<td align="center" width="180">
-
-🧠
-
-AI / ML
-
-Building intelligent systems
-
-</td>
-
-<td align="center" width="180">
-
-⚙️
-
-SYSTEMS
-
-Backend & automation
-
-</td>
-
-<td align="center" width="180">
-
-💻
-
-ENGINEERING
-
-Full-stack development
-
-</td>
-
-<td align="center" width="180">
-
-🧩
-
-PROBLEM SOLVING
-
-Algorithms & DSA
-
-</td>
-</tr>
-</table>
-
-</div>
-
-01 — ABOUT ME
-
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  I don't want to just write code.                           │
-│  I want to understand how the entire system works.          │
-│                                                              │
-│  CURRENTLY EXPLORING                                        │
-│                                                              │
-│  ├── Artificial Intelligence                                │
-│  ├── Machine Learning                                       │
-│  ├── ML Engineering                                         │
-│  ├── Backend Systems                                        │
-│  ├── Automation                                              │
-│  └── Software Architecture                                  │
-│                                                              │
-│  PHILOSOPHY                                                  │
-│                                                              │
-│  Understand → Build → Break → Improve → Repeat              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-02 — PROJECT LAB
-
-Not just projects. Systems I'm building.
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-🤖 AI ASSISTANT
-
-An intelligent voice-based assistant designed around both online AI and local/offline inference.
-
-VOICE
-  ↓
-SPEECH
-  ↓
-INTELLIGENCE
-  ↓
-TOOLS
-  ↓
-ACTION
-  ↓
-VOICE
-
-Focus
-
-AI LLM Voice Android Offline AI
-
-STATUS: ACTIVE
-
-</td>
-
-<td width="50%" valign="top">
-
-🧠 AIMLP
-
-An automated machine-learning pipeline designed around the complete ML lifecycle.
-
-DATA
- ↓
-PREPROCESS
- ↓
-TRAIN
- ↓
-EVALUATE
- ↓
-SELECT
- ↓
-MODEL
-
-Focus
-
-Python ML Automation Model Training
-
-STATUS: BUILDING
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-📊 DRIFT PIPELINE
-
-A machine-learning monitoring system focused on detecting changes in incoming data and identifying when models may need attention.
-
-LIVE DATA
-   ↓
-MONITOR
-   ↓
-COMPARE
-   ↓
-DRIFT ?
-  ↙   ↘
- NO    YES
- ↓      ↓
-PASS   ALERT
-        ↓
-     RETRAIN
-
-Focus
-
-ML Monitoring Data Drift Statistics Automation
-
-STATUS: ACTIVE
-
-</td>
-
-<td width="50%" valign="top">
-
-⛓️ BLOCKCHAIN ROYALTY SYSTEM
-
-A blockchain-based royalty architecture exploring automated payment distribution for digital creators.
-
-CONTENT
-   ↓
-USAGE
-   ↓
-SMART CONTRACT
-   ↓
-ROYALTY
-   ↓
-AUTOMATIC
-DISTRIBUTION
-
-Focus
-
-Blockchain Smart Contracts Flutter Web3
-
-STATUS: EXPLORING
-
-</td>
-
-</tr>
-</table>
-
-03 — CODE ENGINE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhavan20906&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Madhavan20906&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-04 — PROBLEM SOLVING
-
-<div align="center">
-
-Platform
-
-Progress
-
-🟡 LeetCode
-
-900+ Problems
-
-🔴 CodeChef
-
-2400+ Problems
-
-🏆 Contest Rating
-
-1712
-
-</div>
-
-<br/>
-
-PROBLEM
-   │
-   ▼
-UNDERSTAND
-   │
-   ▼
-BREAK DOWN
-   │
-   ▼
-DESIGN
-   │
-   ▼
-IMPLEMENT
-   │
-   ▼
-OPTIMIZE
-   │
-   ▼
-SOLVE
-
-05 — TECHNOLOGY MATRIX
-
-<div align="center">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart" />
-
-Development
-
-<img src="https://skillicons.dev/icons?i=react,flask,flutter,nodejs" />
-
-Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,docker" />
-
-AI / ML
-
-Machine Learning · Model Training · Model Evaluation · Data Processing
-
-</div>
-
-06 — ENGINEERING MINDSET
-
-<div align="center">
-
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│       DON'T JUST USE THE MODEL.                     │
-│       UNDERSTAND THE SYSTEM.                        │
-│                                                      │
-│       DON'T JUST MAKE IT WORK.                      │
-│       UNDERSTAND WHY IT WORKS.                      │
-│                                                      │
-│       DON'T MEMORIZE.                                │
-│       UNDERSTAND.                                    │
-│                                                      │
-│       DON'T JUST BUILD PROJECTS.                     │
-│       BUILD SYSTEMS.                                 │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-
-</div>
-
-07 — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavan20906&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-08 — CURRENTLY BUILDING
-
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  AI SYSTEMS              ████████████████████  ACTIVE      │
-│  ML ENGINEERING          █████████████████░░░  ACTIVE      │
-│  BACKEND SYSTEMS         ████████████████░░░░  BUILDING    │
-│  DEVELOPER TOOLS         ██████████████░░░░░░  EXPLORING   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-
-<div align="center">
-
-BUILD → LEARN → BREAK → REBUILD
-
-<br/>
-
-Let's build something worth opening the terminal for.
-
-<br/>
+<br><br>
 
 <a href="https://github.com/Madhavan20906">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-111827?style=for-the-badge&labelColor=020617&color=22c55e"/>
+</a>
+<a href="https://github.com/Madhavan20906?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-111827?style=for-the-badge&labelColor=020617&color=58a6ff"/>
+</a>
+<a href="https://github.com/Madhavan20906">
+<img src="https://komarev.com/ghpvc/?username=Madhavan20906&style=for-the-badge&color=111827&label=VISITORS"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-SYSTEM STATUS: ONLINE
+01 / SYSTEM OVERVIEW
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+CORE
+
+I am a Computer Science Engineering student interested in the layer between an idea and a working system.
+
+I enjoy taking a problem apart, understanding the mechanism underneath it, and then building the pieces back into something usable.
+
+THINK
+  ↓
+MODEL
+  ↓
+ENGINEER
+  ↓
+TEST
+  ↓
+BREAK
+  ↓
+IMPROVE
+
+</td>
+
+<td width="45%" valign="top">
+
+RUNTIME
+
+┌─────────────────────────────┐
+│                             │
+│  AI / ML            ● ON    │
+│  BACKEND            ● ON    │
+│  AUTOMATION         ● ON    │
+│  ALGORITHMS         ● ON    │
+│  SYSTEM DESIGN      ● ON    │
+│                             │
+│  MODE            BUILDING   │
+│                             │
+└─────────────────────────────┘
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+02 / PROJECT UNIVERSE
+
+Four systems. Four different problems. One engineering mindset.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+01 — AI ASSISTANT
+
+VOICE → INTELLIGENCE → ACTION
+
+An AI assistant designed around the idea that intelligent software shouldn't completely disappear when the network does.
+
+          ┌──────────────┐
+          │     VOICE    │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │     STT      │
+          └──────┬───────┘
+                 │
+                 ▼
+       ┌─────────┴─────────┐
+       │                   │
+    ONLINE              OFFLINE
+       │                   │
+       └─────────┬─────────┘
+                 ▼
+          ┌──────────────┐
+          │   REASONING  │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │    TOOLS     │
+          └──────┬───────┘
+                 │
+                 ▼
+               VOICE
+
+LLM VOICE ANDROID LOCAL AI TOOLS
+
+STATE: ● ACTIVE
+
+</td>
+
+<td width="50%" valign="top">
+
+02 — AIMLP
+
+DATA → MODEL → DECISION
+
+An automated ML pipeline focused on making model development a repeatable engineering process rather than a collection of notebooks.
+
+ DATA
+  │
+  ▼
+┌────────────┐
+│ INGEST     │
+└─────┬──────┘
+      ▼
+┌────────────┐
+│ CLEAN      │
+└─────┬──────┘
+      ▼
+┌────────────┐
+│ TRAIN      │
+└─────┬──────┘
+      ▼
+┌────────────┐
+│ EVALUATE   │
+└─────┬──────┘
+      ▼
+┌────────────┐
+│ SELECT     │
+└─────┬──────┘
+      ▼
+    MODEL
+
+PYTHON MACHINE LEARNING AUTOMATION EVALUATION
+
+STATE: ● BUILDING
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+03 — DRIFT PIPELINE
+
+MONITOR → DETECT → RESPOND
+
+A monitoring pipeline for identifying when incoming data begins behaving differently from the data a model was built around.
+
+NORMAL
+  │
+  ▼
+● ● ● ● ● ● ●
+● ● ● ● ● ● ●
+● ● ● ● ● ● ●
+  │
+  │
+  ▼
+SHIFT
+  │
+  ▼
+● ●
+  ● ● ●
+    ● ● ● ●
+       ● ● ●
+          │
+          ▼
+      ⚠ DRIFT
+          │
+          ▼
+    RETRAIN / REVIEW
+
+DATA DRIFT MONITORING STATISTICS ML
+
+STATE: ● ACTIVE
+
+</td>
+
+<td width="50%" valign="top">
+
+04 — ROYALTY SYSTEM
+
+CONTENT → USAGE → CONTRACT → DISTRIBUTION
+
+A blockchain architecture exploring automated royalty distribution for digital creators.
+
+             CONTENT
+                │
+                ▼
+          ┌─────────────┐
+          │ USAGE EVENT │
+          └──────┬──────┘
+                 │
+                 ▼
+        ┌──────────────────┐
+        │ SMART CONTRACT   │
+        └────────┬─────────┘
+                 │
+          ┌──────┼──────┐
+          ▼      ▼      ▼
+        ARTIST PRODUCER PLATFORM
+          │      │      │
+          └──────┼──────┘
+                 ▼
+          DISTRIBUTION
+
+BLOCKCHAIN SMART CONTRACTS FLUTTER WEB3
+
+STATE: ◌ EXPLORING
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+03 / THE CODE ENGINE
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+900+
+
+LEETCODE
+
+Problems solved
+
+</td>
+<td align="center" width="33%">
+
+2400+
+
+CODECHEF
+
+Problems solved
+
+</td>
+<td align="center" width="33%">
+
+1712
+
+CONTEST RATING
+
+Current LeetCode rating
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Madhavan20906&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github&include_all_commits=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Madhavan20906&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="48%"/>
+
+</div>
+
+<div align="center">
+
+04 / ACTIVITY SIGNAL
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavan20906&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true&custom_title=ENGINEERING%20ACTIVITY" width="96%"/>
+
+</div>
+
+<div align="center">
+
+05 / ENGINEERING STACK
+
+<table>
+<tr>
+<td align="center">
+
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart" />
+
+</td>
+<td align="center">
+
+APPLICATIONS
+
+<img src="https://skillicons.dev/icons?i=react,flask,flutter,nodejs" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+DATA
+
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
+
+</td>
+<td align="center">
+
+ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+06 / ENGINEERING PRINCIPLES
+
+</div>
+
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  01  UNDERSTAND BEFORE IMPLEMENTING                             │
+│                                                                  │
+│  02  BUILD THE SYSTEM AROUND THE MODEL                          │
+│                                                                  │
+│  03  DESIGN FOR FAILURE, NOT JUST THE HAPPY PATH                │
+│                                                                  │
+│  04  AUTOMATE WHAT SHOULD NOT BE MANUAL                          │
+│                                                                  │
+│  05  MEASURE WHAT YOU CLAIM                                     │
+│                                                                  │
+│  06  IF IT CAN BE BUILT, IT CAN BE IMPROVED                      │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+
+<div align="center">
+
+07 / CURRENT VECTOR
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2200&pause=500&color=22C55E&center=true&vCenter=true&width=800&lines=Exploring+AI+systems;Building+ML+infrastructure;Engineering+better+developer+tools;Learning+by+shipping" />
+
+</div>
+
+                    CURRENT TRAJECTORY
+
+       AI SYSTEMS ────────────────► ████████████████
+       ML ENGINEERING ────────────► ███████████████
+       BACKEND ───────────────────► █████████████
+       AUTOMATION ────────────────► ████████████
+       SYSTEM DESIGN ─────────────► ██████████
+
+<div align="center">
+
+08 / GITHUB SIGNAL
+
+<a href="https://github.com/Madhavan20906?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_SOURCE-EXPLORE_MY_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│        CODE IS THE OUTPUT.                               │
+│        UNDERSTANDING IS THE ENGINE.                      │
+│                                                          │
+│                    ─ MADHAVAN                            │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:111827,100:0f172a&animation=twinkling"/>
 
 </div>
