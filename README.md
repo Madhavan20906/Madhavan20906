@@ -3,170 +3,108 @@
 <br>
 
 <a href="https://github.com/Madhavan20906">
-<img src="https://github.com/Madhavan20906.png" width="170" height="170" style="border-radius:50%;" alt="Madhavan"/>
+<img src="https://github.com/Madhavan20906.png" width="160" alt="Madhavan"/>
 </a>
 
 <br><br>
 
-# MADHAVAN
+# MADHAVAN'S LAB
 
-### `AI SYSTEMS` · `AGENTIC AI` · `SOFTWARE ENGINEERING`
+### `AI SYSTEMS · AGENTS · INTELLIGENT SOFTWARE`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=I+build+systems+that+think.;I+turn+ideas+into+working+software.;Exploring+agents%2C+AI+security+%26+intelligent+systems.;Build.+Break.+Learn.+Ship." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Ideas+become+systems.;Systems+become+products.;Building+AI+that+does+more+than+chat.;The+lab+is+always+moving." alt="Animated introduction"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=58A6FF" width="55%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=58A6FF" width="50%" alt=""/>
 
 <br><br>
 
-<a href="https://github.com/Madhavan20906?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-58A6FF?style=for-the-badge&labelColor=080c13"/>
-</a>
-&nbsp;
+`SELECT A SYSTEM TO ENTER`
+
+</div>
+
+---
+
+<div align="center">
+
+# 🛡️ 01 / SENTINELMESH
+
+### `AI AGENT GOVERNANCE PLATFORM`
+
+<br>
+
 <a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
-<img src="https://img.shields.io/badge/FLAGSHIP-SENTINELMESH-39E58C?style=for-the-badge&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/ENTER%20SENTINELMESH-→-58A6FF?style=for-the-badge&labelColor=080c13"/>
 </a>
 
-<br><br>
-
-`AI`   `AGENTS`   `SECURITY`   `FULL STACK`   `CLOUD`
-
 </div>
-
----
-
-<div align="center">
-
-## THE BUILDER
-
-</div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Hey, I'm Madhavan.
-
-I'm a Computer Science Engineering student who enjoys building **real software around emerging technology**.
-
-My interests sit at the intersection of:
-
-* 🤖 Artificial Intelligence
-* 🧠 Agentic systems
-* 🛡️ AI security & governance
-* 🌐 Full-stack engineering
-* ☁️ Cloud systems
-* ⛓️ Blockchain
-* 🧩 Problem solving
-
-I prefer **understanding how things work and building them**, rather than simply memorizing them.
 
 <br>
 
-> **The goal isn't to build more software.**
->
-> **The goal is to build better systems.**
-
-</td>
-
-<td width="40%" valign="top">
-
-### CURRENT MODE
-
-```text
-╭─────────────────────────╮
-│                         │
-│   STATUS     BUILDING   │
-│                         │
-│   FOCUS                 │
-│   ├─ AI Agents         │
-│   ├─ AI Security       │
-│   ├─ Full Stack        │
-│   └─ Cloud Systems     │
-│                         │
-│   MODE      SHIP        │
-│                         │
-╰─────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🛡️ FLAGSHIP SYSTEM
-
-### SENTINELMESH
-
-<img src="https://img.shields.io/badge/AI_AGENT_GOVERNANCE-00D9FF?style=for-the-badge&labelColor=080c13"/>
-<img src="https://img.shields.io/badge/SECURITY-39E58C?style=for-the-badge&labelColor=080c13"/>
-<img src="https://img.shields.io/badge/AGENTIC_AI-A78BFA?style=for-the-badge&labelColor=080c13"/>
-
-<br><br>
-
-### A governance and security layer for the agentic AI era.
-
-</div>
-
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### THE PROBLEM
+## THE IDEA
 
-AI agents are moving from:
+As AI agents become capable of making decisions and taking actions, they need a layer of **visibility, governance and control**.
 
-`CHAT`
-
-to
-
-`DECISION`
-
-to
-
-`ACTION`
-
-As agents gain more autonomy, systems need ways to understand:
+**SentinelMesh** is built around that idea.
 
 ```text
-WHO is acting?
-WHAT are they doing?
-WHY are they doing it?
-WHAT can they access?
-WHAT happens next?
+                    AI AGENTS
+                        │
+                        ▼
+              ┌───────────────────┐
+              │   SENTINELMESH    │
+              │                   │
+              │   MONITOR         │
+              │   ANALYZE         │
+              │   GOVERN          │
+              │   PROTECT         │
+              └─────────┬─────────┘
+                        │
+                        ▼
+                  SAFE ACTION
 ```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### THE IDEA
-
-SentinelMesh introduces a control layer around agentic systems.
+## CORE
 
 ```text
-       AI AGENT
-           │
-           ▼
-    ┌──────────────┐
-    │ SENTINELMESH │
-    ├──────────────┤
-    │   MONITOR    │
-    │   ANALYZE    │
-    │   GOVERN     │
-    │   PROTECT    │
-    └──────┬───────┘
-           │
-           ▼
-       REAL WORLD
+┌──────────────────────┐
+│                      │
+│   🤖 AGENT ACTIVITY  │
+│          ↓           │
+│   🔍 ANALYSIS        │
+│          ↓           │
+│   🛡️ GOVERNANCE      │
+│          ↓           │
+│   ⚡ DECISION        │
+│          ↓           │
+│   🔐 CONTROL         │
+│                      │
+└──────────────────────┘
 ```
+
+**Built for the agentic AI era.**
+
+<br>
+
+`AI AGENTS`
+
+`SECURITY`
+
+`GOVERNANCE`
+
+`OBSERVABILITY`
 
 </td>
 
@@ -176,18 +114,26 @@ SentinelMesh introduces a control layer around agentic systems.
 <div align="center">
 
 <a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
-<img src="https://img.shields.io/badge/→_ENTER_SENTINELMESH-58A6FF?style=for-the-badge&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-# ⚡ PROJECT UNIVERSE
+# 🧠 02 / MULTIMODAL ASSISTANT
 
-### Different problems. Same obsession: building intelligent systems.
+### `VOICE · TEXT · IMAGE · DOCUMENTS`
+
+<br>
+
+<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
+<img src="https://img.shields.io/badge/ENTER%20PROJECT-→-A78BFA?style=for-the-badge&labelColor=080c13"/>
+</a>
 
 </div>
 
@@ -196,275 +142,200 @@ SentinelMesh introduces a control layer around agentic systems.
 <table>
 <tr>
 
-<td width="33%" valign="top">
-
-<div align="center">
-
-### 01
-
-# 🎙️
-
-## ANDROID
-
-## VOICE ASSISTANT
-
-`VOICE → ASSIST → ACTION`
-
-<br>
-
-<img src="https://img.shields.io/badge/ANDROID-000000?style=flat-square&logo=android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/VOICE-AI-58A6FF?style=flat-square"/>
-
-</div>
-
-<br>
-
-A voice-first Android assistant built around foreground services and notifications.
+<td width="45%" valign="top">
 
 ```text
-VOICE
-  ↓
-UNDERSTAND
-  ↓
-ASSIST
-  ↓
-ACTION
+             ┌─────────┐
+             │  VOICE  │
+             └────┬────┘
+                  │
+             ┌────▼────┐
+             │  TEXT   │
+             └────┬────┘
+                  │
+             ┌────▼────┐
+             │  IMAGE  │
+             └────┬────┘
+                  │
+             ┌────▼────┐
+             │  DOCS   │
+             └────┬────┘
+                  │
+                  ▼
+           ┌──────────────┐
+           │   AI CORE    │
+           └──────┬───────┘
+                  │
+                  ▼
+              RESPONSE
 ```
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Madhavan20906/Android-Voice-Assistant">
-<b>VIEW PROJECT →</b>
-</a>
-
-</div>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="55%" valign="top">
 
-<div align="center">
+## ONE INTERFACE. MANY INPUTS.
 
-### 02
+An experimental multimodal assistant designed to interact with different types of information.
 
-# 🧠
+### INPUT
 
-## AI
+🎙️ Voice
+💬 Text
+🖼️ Images
+📄 Documents
 
-## MULTIMODAL ASSISTANT
+### PROCESSING
 
-`VOICE + TEXT + IMAGE + DOCS`
+`UNDERSTAND → ANALYZE → RESPOND`
 
-<br>
+### EXPLORING
 
-<img src="https://img.shields.io/badge/AI-MULTIMODAL-A78BFA?style=flat-square"/>
-<img src="https://img.shields.io/badge/OCR-ACTIVE-58A6FF?style=flat-square"/>
+`OCR` · `VISION` · `VOICE` · `DOCUMENT AI`
 
-</div>
+</td>
 
-<br>
-
-An AI assistant exploring multiple interaction modes including voice, text, images, documents, OCR and intelligent processing.
-
-```text
-VOICE ──┐
-TEXT  ──┤
-IMAGE ──┼──► AI CORE
-DOCS  ──┘
-```
-
-<br>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
-<b>VIEW PROJECT →</b>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
+
+<br>
+
+---
+
+<div align="center">
+
+# ⚙️ 03 / ENTERPRISE AI OS
+
+### `AI → REASONING → WORKFLOW → ACTION`
+
+<br>
+
+<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
+<img src="https://img.shields.io/badge/ENTER%20PROJECT-→-39E58C?style=for-the-badge&labelColor=080c13"/>
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## FROM REQUEST TO ACTION
+
+Instead of treating AI as just a chatbot, this project explores AI as an **operational layer**.
+
+```text
+       USER REQUEST
+             │
+             ▼
+      ┌─────────────┐
+      │     AI      │
+      │   COPILOT   │
+      └──────┬──────┘
+             │
+             ▼
+        UNDERSTAND
+             │
+             ▼
+          REASON
+             │
+             ▼
+         WORKFLOW
+             │
+             ▼
+           ACTION
+```
 
 </td>
 
-<td width="33%" valign="top">
+<td width="45%" valign="top">
 
-<div align="center">
-
-### 03
-
-# ⚙️
-
-## ENTERPRISE
-
-## AI OS COPILOT
-
-`AI → WORKFLOW → ACTION`
-
-<br>
-
-<img src="https://img.shields.io/badge/ENTERPRISE-AI-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/AUTOMATION-39E58C?style=flat-square"/>
-
-</div>
-
-<br>
-
-An enterprise-oriented AI copilot concept focused on intelligent assistance, workflows and automated actions.
+## SYSTEM
 
 ```text
 INPUT
- ↓
-COPILOT
- ↓
-REASON
- ↓
-WORKFLOW
- ↓
-ACTION
+  ↓
+INTELLIGENCE
+  ↓
+DECISION
+  ↓
+AUTOMATION
+  ↓
+EXECUTION
 ```
 
-<br>
+### FOCUS
 
-<div align="center">
+`AI`
 
-<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
-<b>VIEW PROJECT →</b>
-</a>
+`ENTERPRISE`
 
-</div>
+`WORKFLOWS`
+
+`AUTOMATION`
 
 </td>
 
 </tr>
 </table>
 
----
-
 <div align="center">
 
-# 🧬 HOW I THINK ABOUT AI
+<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+---
 
 <br>
 
 <div align="center">
+
+# 🌐 PROJECT MAP
+
+### Three different systems. One direction.
+
+<br><br>
 
 ```text
-                         ┌───────────────┐
-                         │    HUMAN      │
-                         │     IDEA      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   PERCEIVE    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    REASON     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     PLAN      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │      ACT      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    VERIFY     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    IMPROVE    │
-                         └───────────────┘
+                         ┌─────────────────┐
+                         │    MADHAVAN     │
+                         │      LAB        │
+                         └────────┬────────┘
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+       ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+       │  SENTINEL   │     │ MULTIMODAL  │     │  ENTERPRISE │
+       │    MESH     │     │ ASSISTANT   │     │   AI OS     │
+       └──────┬──────┘     └──────┬──────┘     └──────┬──────┘
+              │                   │                   │
+              ▼                   ▼                   ▼
+          GOVERNANCE          INTELLIGENCE         AUTOMATION
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  │
+                                  ▼
+                             AI SYSTEMS
 ```
 
-### The interesting part of AI isn't just generating an answer.
-
-### It's what happens **after** the answer.
-
-</div>
-
----
-
-<div align="center">
-
-# 🧰 ENGINEERING STACK
-
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,flask,nodejs,express,flutter" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker,gcp,git,github,vercel" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI_SYSTEMS-58A6FF?style=for-the-badge&labelColor=080c13"/>
-<img src="https://img.shields.io/badge/FULL_STACK-39E58C?style=for-the-badge&labelColor=080c13"/>
-<img src="https://img.shields.io/badge/CLOUD-A78BFA?style=for-the-badge&labelColor=080c13"/>
-<img src="https://img.shields.io/badge/SECURITY-FF6B6B?style=for-the-badge&labelColor=080c13"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 ENGINEERING SIGNAL
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhavan20906&bg_color=080c13&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=MADHAVAN%20%2F%2F%20ENGINEERING%20ACTIVITY" width="96%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhavan20906&show_icons=true&hide_border=true&theme=github_dark&bg_color=080c13&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&include_all_commits=true&custom_title=SYSTEM%20SIGNAL" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=Madhavan20906&theme=github-dark-blue&hide_border=true&background=080c13&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%"/>
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/58a6ff/Madhavan20906" width="96%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧮 PROBLEM SOLVING
-
-### `900+` LeetCode Problems
-
-<br>
-
-<img src="https://img.shields.io/badge/LEETCODE-900%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080c13"/>
-<img src="https://img.shields.io/badge/CONTEST%20RATING-1712-58A6FF?style=for-the-badge&labelColor=080c13"/>
-
-<br><br>
-
-> **I don't solve problems just to increase a number.**
->
-> **I solve them to sharpen how I think.**
+`GOVERN`    `UNDERSTAND`    `ACT`
 
 </div>
 
@@ -474,123 +345,29 @@ ACTION
 
 # 🔬 THE LAB
 
-</div>
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 🤖
-
-**AGENTS**
-
-Autonomous workflows
-Tool use
-Planning
-Reasoning
-
-</td>
-
-<td width="25%" align="center">
-
-### 🛡️
-
-**SECURITY**
-
-AI governance
-Trust
-Monitoring
-Control
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧠
-
-**INTELLIGENCE**
-
-ML
-Multimodal AI
-RAG
-Deep Learning
-
-</td>
-
-<td width="25%" align="center">
-
-### ☁️
-
-**SYSTEMS**
-
-APIs
-Cloud
-Databases
-Infrastructure
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🔭 BUILD PHILOSOPHY
-
 <br>
 
 ```text
-       ┌──────────┐
-       │   IDEA   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ RESEARCH │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  DESIGN  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BUILD   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BREAK   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  LEARN   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │   SHIP   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ ITERATE  │
-       └──────────┘
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│                     NEW IDEA                        │
+│                         ↓                           │
+│                     EXPLORE                         │
+│                         ↓                           │
+│                      BUILD                          │
+│                         ↓                           │
+│                      TEST                           │
+│                         ↓                           │
+│                       SHIP                          │
+│                         ↓                           │
+│                     NEXT IDEA                       │
+│                                                     │
+╰─────────────────────────────────────────────────────╯
 ```
 
 <br>
 
-### `BUILD → BREAK → LEARN → SHIP → REPEAT`
-
-</div>
-
----
-
-<div align="center">
-
-# 🌌 WHAT'S NEXT?
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=700&color=39E58C&center=true&vCenter=true&width=750&lines=The+lab+is+still+being+built.;More+systems+are+coming.;Keep+building.;Stay+curious." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=39E58C&center=true&vCenter=true&width=650&lines=More+systems+are+coming.;The+lab+is+still+being+built.;Stay+curious." alt="Lab status"/>
 
 <br><br>
 
@@ -600,14 +377,6 @@ Infrastructure
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Madhavan20906&style=for-the-badge&color=111827&label=PROFILE%20VISITORS"/>
-
-<br><br>
-
-### `AI · SYSTEMS · BUILDING`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:0d1117,100:111827&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:0d1117,100:111827&animation=twinkling" width="100%" alt=""/>
 
 </div>
