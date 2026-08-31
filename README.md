@@ -1,25 +1,25 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=MADHAVAN'S%20LAB&fontSize=42&fontAlignY=38&desc=AI%20SYSTEMS%20%20%7C%20%20AGENTS%20%20%7C%20%20INTELLIGENT%20SOFTWARE&descAlignY=62&descSize=16&animation=fadeIn&color=0:020617,50:0b1220,100:172554" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=MADHAVAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BUILDING%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=BUILDING+AI+SYSTEMS;TURNING+IDEAS+INTO+SOFTWARE;EXPLORING+AGENTIC+INTELLIGENCE;THE+LAB+IS+ALWAYS+MOVING" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=BUILDING+AI+SYSTEMS;EXPLORING+AGENTIC+INTELLIGENCE;TURNING+IDEAS+INTO+SOFTWARE;EXPERIMENTING.+BUILDING.+SHIPPING." />
 
 </p>
 
+<br>
+
 <p align="center">
 
+<a href="https://github.com/Madhavan20906">
+<img src="https://cdn.simpleicons.org/github/181717" width="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Madhavan20906?tab=repositories">
-<img src="https://img.shields.io/badge/ALL%20PROJECTS-58A6FF?style=for-the-badge&labelColor=080c13"/>
-</a>
-
- 
-
-<a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
-<img src="https://img.shields.io/badge/FEATURED%20PROJECT-SENTINELMESH-39E58C?style=for-the-badge&labelColor=080c13"/>
+<img src="https://cdn.simpleicons.org/gitbook/58A6FF" width="42"/>
 </a>
 
 </p>
@@ -28,11 +28,11 @@
 
 ---
 
+<h2 align="center">🧪 PROJECTS</h2>
+
 <p align="center">
 
-# 🧪 PROJECT LAB
-
-### A collection of systems built to explore what software can become.
+<b>A collection of systems I've built while exploring AI, agents and software.</b>
 
 </p>
 
@@ -40,164 +40,62 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                    SENTINELMESH                       -->
+<!--                     PROJECT 01                         -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
 
-<td width="50%" valign="middle">
-
-<p align="center">
-
-# 🛡️
-
-## SENTINELMESH
-
-### AI AGENT GOVERNANCE PLATFORM
-
-<br>
+<td width="45%" align="center">
 
 <a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-→-58A6FF?style=for-the-badge&labelColor=080c13"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&text=SENTINELMESH&fontSize=32&fontColor=ffffff&desc=AI%20AGENT%20GOVERNANCE&descAlignY=70&animation=fadeIn&color=0:020617,50:0d1b2a,100:0066ff" width="100%"/>
+
 </a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### THE IDEA
-
-As AI agents become capable of making decisions and taking actions, they need a layer of **visibility, governance and control**.
-
-SentinelMesh explores that control layer.
-
-```text
-                 AI AGENT
-                    │
-                    ▼
-          ┌──────────────────┐
-          │   SENTINELMESH   │
-          │                  │
-          │    MONITOR       │
-          │    ANALYZE       │
-          │    GOVERN        │
-          │    PROTECT       │
-          └────────┬─────────┘
-                   │
-                   ▼
-              SAFE ACTION
-```
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-
-`AGENT MONITORING`   `AI SECURITY`   `GOVERNANCE`   `CONTROL`
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhavan20906&repo=SentinelMesh-Governance-Platform&theme=github_dark&bg_color=080c13&title_color=58A6FF&text_color=c9d1d9&icon_color=39E58C&hide_border=true"/>
-</a>
-
-</p>
-
-<br>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                 MULTIMODAL ASSISTANT                  -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<p align="center">
-
-# 🧠 MULTIMODAL ASSISTANT
-
-### VOICE · TEXT · IMAGE · DOCUMENTS
-
-<br>
-
-<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-→-A78BFA?style=for-the-badge&labelColor=080c13"/>
-</a>
-
-</p>
-
-<br>
-
-<table>
-<tr>
-
-<td width="45%" valign="middle">
-
-<p align="center">
-
-```text
-        ┌─────────┐
-        │  VOICE  │
-        └────┬────┘
-             │
-        ┌────▼────┐
-        │  TEXT   │
-        └────┬────┘
-             │
-        ┌────▼────┐
-        │  IMAGE  │
-        └────┬────┘
-             │
-        ┌────▼────┐
-        │  DOCS   │
-        └────┬────┘
-             │
-             ▼
-       ┌────────────┐
-       │   AI CORE  │
-       └─────┬──────┘
-             │
-             ▼
-          RESPONSE
-```
-
-</p>
 
 </td>
 
 <td width="55%" valign="top">
 
-### ONE SYSTEM. MANY INPUTS.
+<h2>🛡️ SentinelMesh</h2>
 
-An experimental multimodal assistant exploring different ways humans can interact with AI.
+<h3>AI Agent Governance Platform</h3>
 
-**INPUT**
+<p>
+A system exploring <b>security, governance and control for agentic AI systems.</b>
+</p>
 
-🎙️ Voice
-💬 Text
-🖼️ Images
-📄 Documents
+<br>
 
-**INTELLIGENCE**
+<b>CORE</b>
 
-`UNDERSTAND → ANALYZE → RESPOND`
+<br><br>
 
-**EXPLORATION**
+<img src="https://img.shields.io/badge/AGENT%20MONITORING-58A6FF?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/AI%20SECURITY-39E58C?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/GOVERNANCE-A78BFA?style=flat-square&labelColor=080c13"/>
 
-`VISION` · `OCR` · `VOICE` · `DOCUMENT AI`
+<br><br>
+
+```text
+AI AGENT
+   ↓
+OBSERVE
+   ↓
+ANALYZE
+   ↓
+GOVERN
+   ↓
+ACT
+```
+
+<br>
+
+<a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-→-58A6FF?style=for-the-badge&labelColor=080c13"/>
+</a>
 
 </td>
 
@@ -206,100 +104,62 @@ An experimental multimodal assistant exploring different ways humans can interac
 
 <br>
 
-<p align="center">
-
-<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                ENTERPRISE AI OS                       -->
+<!--                     PROJECT 02                         -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
-
-<p align="center">
-
-# ⚙️ ENTERPRISE AI OS
-
-### AI → REASONING → WORKFLOW → ACTION
-
-<br>
-
-<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-→-39E58C?style=for-the-badge&labelColor=080c13"/>
-</a>
-
-</p>
-
-<br>
 
 <table>
 <tr>
 
 <td width="55%" valign="top">
 
-### FROM CHAT TO ACTION
+<h2>🧠 AI Multimodal Assistant</h2>
 
-This project explores AI as an **operational layer** rather than simply a conversational interface.
+<h3>Voice · Text · Image · Documents</h3>
 
-```text
-             USER
-              │
-              ▼
-        ┌────────────┐
-        │    AI      │
-        │  COPILOT   │
-        └─────┬──────┘
-              │
-              ▼
-          UNDERSTAND
-              │
-              ▼
-            REASON
-              │
-              ▼
-          WORKFLOW
-              │
-              ▼
-            ACTION
-```
+<p>
+An experimental assistant exploring how AI can understand and interact with different forms of information.
+</p>
 
-</td>
+<br>
 
-<td width="45%" valign="middle">
+<b>INPUTS</b>
 
-<p align="center">
+<br><br>
 
-### CORE
+<img src="https://img.shields.io/badge/VOICE-58A6FF?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/TEXT-58A6FF?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/IMAGE-A78BFA?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/DOCUMENTS-39E58C?style=flat-square&labelColor=080c13"/>
+
+<br><br>
 
 ```text
-INPUT
-  ↓
-INTELLIGENCE
-  ↓
-DECISION
-  ↓
-AUTOMATION
-  ↓
-EXECUTION
+VOICE ──┐
+TEXT  ──┤
+IMAGE ──┼──► AI CORE ──► RESPONSE
+DOCS  ──┘
 ```
 
 <br>
 
-`AI`
+<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-→-A78BFA?style=for-the-badge&labelColor=080c13"/>
+</a>
 
-`ENTERPRISE`
+</td>
 
-`WORKFLOW`
+<td width="45%" align="center">
 
-`AUTOMATION`
+<a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&text=MULTIMODAL%20AI&fontSize=29&fontColor=ffffff&desc=VOICE%20%2B%20VISION%20%2B%20DOCUMENTS&descAlignY=70&animation=fadeIn&color=0:12002f,50:24104f,100:7c3aed" width="100%"/>
+
+</a>
 
 </td>
 
@@ -308,44 +168,155 @@ EXECUTION
 
 <br>
 
-<p align="center">
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                     PROJECT 03                         -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+
+<td width="45%" align="center">
 
 <a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&text=ENTERPRISE%20AI%20OS&fontSize=29&fontColor=ffffff&desc=AI%20%7C%20WORKFLOW%20%7C%20ACTION&descAlignY=70&animation=fadeIn&color=0:022c22,50:064e3b,100:10b981" width="100%"/>
+
 </a>
 
+</td>
+
+<td width="55%" valign="top">
+
+<h2>⚙️ Enterprise AI OS Copilot</h2>
+
+<h3>AI → Workflow → Action</h3>
+
+<p>
+An enterprise-oriented AI copilot concept focused on turning intelligent assistance into <b>workflows and actions.</b>
 </p>
+
+<br>
+
+<b>SYSTEM FLOW</b>
+
+<br><br>
+
+```text
+REQUEST
+   ↓
+UNDERSTAND
+   ↓
+REASON
+   ↓
+WORKFLOW
+   ↓
+ACTION
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-58A6FF?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/WORKFLOWS-39E58C?style=flat-square&labelColor=080c13"/>
+<img src="https://img.shields.io/badge/AUTOMATION-A78BFA?style=flat-square&labelColor=080c13"/>
+
+<br><br>
+
+<a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-→-39E58C?style=for-the-badge&labelColor=080c13"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <br>
 
-<p align="center">
-
-# 🌐 THE SYSTEM MAP
-
-</p>
+<h2 align="center">🔭 PROJECT ARCHITECTURE</h2>
 
 <p align="center">
 
 ```text
-                           MADHAVAN'S LAB
+                         ┌──────────────────┐
+                         │    MADHAVAN'S    │
+                         │       LAB        │
+                         └────────┬─────────┘
                                   │
-                 ┌────────────────┼────────────────┐
-                 │                │                │
-                 ▼                ▼                ▼
-          ┌────────────┐   ┌────────────┐   ┌────────────┐
-          │ SENTINEL   │   │ MULTIMODAL │   │ ENTERPRISE │
-          │   MESH     │   │ ASSISTANT  │   │   AI OS    │
-          └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
-                │                │                │
-                ▼                ▼                ▼
-           GOVERNANCE       INTELLIGENCE      AUTOMATION
-                │                │                │
-                └────────────────┼────────────────┘
+                ┌─────────────────┼─────────────────┐
+                │                 │                 │
+                ▼                 ▼                 ▼
+        ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
+        │ SENTINELMESH │  │ MULTIMODAL AI│  │ ENTERPRISE OS│
+        └──────┬───────┘  └──────┬───────┘  └──────┬───────┘
+               │                 │                 │
+               ▼                 ▼                 ▼
+          GOVERNANCE        UNDERSTANDING       AUTOMATION
+               │                 │                 │
+               └─────────────────┼─────────────────┘
                                  │
                                  ▼
-                           AI SYSTEMS
+                         INTELLIGENT SYSTEMS
+```
+
+</p>
+
+<br>
+
+---
+
+<h2 align="center">🧰 TECHNOLOGIES</h2>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+
+</p>
+
+---
+
+<br>
+
+<h2 align="center">🧬 THE IDEA</h2>
+
+<p align="center">
+
+```yaml
+lab:
+  purpose: "Build intelligent software"
+
+  interests:
+    - artificial_intelligence
+    - agentic_systems
+    - multimodal_interfaces
+    - ai_security
+    - automation
+    - full_stack_systems
+
+  philosophy:
+    - understand
+    - experiment
+    - build
+    - iterate
+    - ship
 ```
 
 </p>
@@ -356,125 +327,7 @@ EXECUTION
 
 <p align="center">
 
-# 🔭 WHAT THESE PROJECTS EXPLORE
-
-</p>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AGENTS**
-
-Autonomy
-Reasoning
-Actions
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**MULTIMODAL**
-
-Vision
-Voice
-Documents
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛡️
-
-**SECURITY**
-
-Governance
-Monitoring
-Control
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**SYSTEMS**
-
-Workflows
-Automation
-Execution
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<p align="center">
-
-# 🧰 TECHNOLOGIES BEHIND THE SYSTEMS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,dart,react,angular,flask,nodejs,flutter,mongodb,sqlite,docker,gcp,git,github" />
-
-</p>
-
-<br>
-
----
-
-<p align="center">
-
-# 🧬 THE BUILD LOOP
-
-</p>
-
-<p align="center">
-
-```text
-       ┌──────────────┐
-       │     IDEA     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   EXPLORE    │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    BUILD     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │     TEST     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │     SHIP     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    ITERATE   │
-       └──────┬───────┘
-              │
-              └───────────────→ NEXT IDEA
-```
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2400&pause=800&color=39E58C&center=true&vCenter=true&width=650&lines=More+systems+are+coming.;The+lab+is+still+being+built.;Build.+Break.+Learn.+Ship." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=700&color=39E58C&center=true&vCenter=true&width=700&lines=More+systems+are+being+built.;The+lab+is+still+moving.;Build.+Experiment.+Ship." />
 
 </p>
 
@@ -492,6 +345,6 @@ Execution
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,50:0d1117,100:172554&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn" width="100%"/>
 
 </p>
