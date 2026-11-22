@@ -38,39 +38,91 @@
   <!-- ══════════════════════════════════════════════════════════ -->
   <!--                 04. FLAGSHIP ARCHITECTURES                 -->
   <!-- ══════════════════════════════════════════════════════════ -->
-  <h3 align="center">Featured Systems</h3>
-  <p align="center"><em>Production-grade agent governance, multimodal perception & enterprise automation</em></p>
+  <h2 align="center">Featured Systems</h2>
+  <p align="center"><em>Autonomous agent governance, human-in-the-loop decision engines & multi-agent compliance</em></p>
 
 </div>
 
-<table>
+<br/>
+
+<!-- PROJECT 1: SENTINELMESH -->
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4>🛡️ SentinelMesh</h4>
-      <p><b>AI Agent Governance Platform</b><br/>Security, runtime observation & control protocol for autonomous agentic workflows.</p>
-      <code>OBSERVE → REASON → GOVERN → ACT</code>
-      <br/><br/>
-      <a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
-        <img src="https://img.shields.io/badge/EXPLORE-0066FF?style=flat-square&logo=github&logoColor=white" alt="SentinelMesh" />
-      </a>
+    <td width="100%">
+      <div align="left">
+        <h3>🛡️ SentinelMesh &nbsp;<code>v1.0</code></h3>
+        <p><b>AI Agent Governance Platform</b> — Security, runtime observation & deterministic policy restraint for multi-agent systems.</p>
+        <p>
+          <img src="https://img.shields.io/badge/AGENT%20SECURITY-0066FF?style=flat-square&labelColor=0d1117" alt="Security" />
+          <img src="https://img.shields.io/badge/RUNTIME%20OBSERVE-39E58C?style=flat-square&labelColor=0d1117" alt="Observe" />
+          <img src="https://img.shields.io/badge/POLICY%20RESTRAINT-A78BFA?style=flat-square&labelColor=0d1117" alt="Policy" />
+          <img src="https://img.shields.io/badge/AUDIT%20TRAILS-58A6FF?style=flat-square&labelColor=0d1117" alt="Audit" />
+        </p>
+<pre><code>AI AGENT RUNTIME ──► RUNTIME OBSERVE ──► INTENT REASONING ──► POLICY ENGINE ──► VERIFIED ACTION
+        │                                                                              ▲
+        └──────────────────────── [QUARANTINE TRIGGER] ────────────────────────────────┘</code></pre>
+        <p>
+          <a href="https://github.com/Madhavan20906/SentinelMesh-Governance-Platform">
+            <img src="https://img.shields.io/badge/EXPLORE%20SENTINELMESH-→-0066FF?style=for-the-badge&labelColor=080c13" alt="View SentinelMesh" />
+          </a>
+        </p>
+      </div>
     </td>
-    <td width="33%" valign="top">
-      <h4>🧠 Multimodal AI</h4>
-      <p><b>Unified Perception Engine</b><br/>Hybrid on-device & cloud inference blending Voice, Vision, Text, and Documents.</p>
-      <code>VOICE + VISION + DOCS → AI CORE</code>
-      <br/><br/>
-      <a href="https://github.com/Madhavan20906/Ai-Multimodal-assistant-">
-        <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Multimodal Assistant" />
-      </a>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 2: PROOFPILOT -->
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>⚡ ProofPilot &nbsp;<code>v1.0</code></h3>
+        <p><b>Human-Governed AI Decision Workspace</b> — Multi-criteria evaluation allowing AI agents to examine evidence and simulate tradeoffs while keeping final execution strictly under human audit.</p>
+        <p>
+          <img src="https://img.shields.io/badge/WEBMCP%20PROTOCOL-A78BFA?style=flat-square&labelColor=0d1117" alt="WebMCP" />
+          <img src="https://img.shields.io/badge/DECISION%20ENGINE-38BDF8?style=flat-square&labelColor=0d1117" alt="Engine" />
+          <img src="https://img.shields.io/badge/RISK%20SCORING-F43F5E?style=flat-square&labelColor=0d1117" alt="Risk" />
+          <img src="https://img.shields.io/badge/HUMAN--IN--THE--LOOP-39E58C?style=flat-square&labelColor=0d1117" alt="HITL" />
+        </p>
+<pre><code>INVESTIGATE EVIDENCE ──► WEIGH TRADEOFFS ──► EVALUATE RISK ──► HUMAN APPROVAL ──► STATE UPDATE
+        │                                                                              ▲
+        └────────────────────── [DETERMINISTIC VERIFICATION] ──────────────────────────┘</code></pre>
+        <p>
+          <a href="https://github.com/Madhavan20906/ProofPilot">
+            <img src="https://img.shields.io/badge/EXPLORE%20PROOFPILOT-→-7C3AED?style=for-the-badge&labelColor=080c13" alt="View ProofPilot" />
+          </a>
+        </p>
+      </div>
     </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Enterprise AI OS</h4>
-      <p><b>Intelligent Copilot Runtime</b><br/>Autonomous decision framework turning raw intent into reliable enterprise execution.</p>
-      <code>REQUEST → WORKFLOW → ACTION</code>
-      <br/><br/>
-      <a href="https://github.com/Madhavan20906/Enterprise-AI-Operating-System-Copilot-">
-        <img src="https://img.shields.io/badge/EXPLORE-10B981?style=flat-square&logo=github&logoColor=white" alt="Enterprise OS" />
-      </a>
+  </tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 3: GRANTGUARDIAN -->
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <div align="left">
+        <h3>📜 GrantGuardian &nbsp;<code>v1.0</code></h3>
+        <p><b>Multi-Agent Research &amp; Citation Integrity SaaS</b> — Autonomous research-governance engine detecting 2nd-order citation rot, quarantining compromised studies, and generating cryptographic compliance audits.</p>
+        <p>
+          <img src="https://img.shields.io/badge/2ND--ORDER%20ROT%20SCAN-10B981?style=flat-square&labelColor=0d1117" alt="Scan" />
+          <img src="https://img.shields.io/badge/AWS%20BEDROCK-FF9900?style=flat-square&labelColor=0d1117" alt="AWS" />
+          <img src="https://img.shields.io/badge/COMPLIANCE%20SAAS-58A6FF?style=flat-square&labelColor=0d1117" alt="Compliance" />
+          <img src="https://img.shields.io/badge/RETRACTED%20QUARANTINE-EF4444?style=flat-square&labelColor=0d1117" alt="Quarantine" />
+        </p>
+<pre><code>PROPOSAL INGESTION ──► CITATION GRAPH SCAN ──► ROT DETECTION ──► QUARANTINE ──► CRYPTO AUDIT
+        │                                                                              ▲
+        └─────────────────────── [AUTONOMOUS COMPLIANCE GUARD] ────────────────────────┘</code></pre>
+        <p>
+          <a href="https://github.com/Madhavan20906/GrantGuardian">
+            <img src="https://img.shields.io/badge/EXPLORE%20GRANTGUARDIAN-→-10B981?style=for-the-badge&labelColor=080c13" alt="View GrantGuardian" />
+          </a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -112,9 +164,9 @@
   </p>
 
   <p align="center">
-    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=700&auto=format&fit=crop" width="48%" style="border-radius: 8px;" alt="Code workspace" />
+    <img src="./assets/code_workspace.jpg" width="49%" style="border-radius: 8px;" alt="Code workspace" />
     &nbsp;
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=700&auto=format&fit=crop" width="48%" style="border-radius: 8px;" alt="Hardware circuitry" />
+    <img src="./assets/hardware_chip.jpg" width="49%" style="border-radius: 8px;" alt="Hardware circuitry" />
   </p>
 
 </div>

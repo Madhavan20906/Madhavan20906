@@ -63,19 +63,19 @@
       <!-- Row 1: focus -->
       <g transform="translate(0, 0)">
         <text x="0" y="0" class="mono key">focus:</text>
-        <text x="110" y="0" class="sans val">Agentic AI <tspan class="dot-accent">•</tspan> Autonomous Governance <tspan class="dot-accent">•</tspan> Multimodal Systems</text>
+        <text x="110" y="0" class="sans val">Agentic AI <tspan class="dot-accent">•</tspan> Autonomous Governance <tspan class="dot-accent">•</tspan> Multi-Agent SaaS</text>
       </g>
 
       <!-- Row 2: stack -->
       <g transform="translate(0, 34)">
         <text x="0" y="0" class="mono key">stack:</text>
-        <text x="110" y="0" class="sans val">Native Android <tspan class="green-dot">•</tspan> On-Device LLMs <tspan class="green-dot">•</tspan> Cloud &amp; Microservices</text>
+        <text x="110" y="0" class="sans val">Native Android <tspan class="green-dot">•</tspan> WebMCP Tools <tspan class="green-dot">•</tspan> Distributed Pipelines</text>
       </g>
 
       <!-- Row 3: flagships -->
       <g transform="translate(0, 68)">
         <text x="0" y="0" class="mono key">flagships:</text>
-        <text x="110" y="0" class="sans val">SentinelMesh Platform <tspan class="dot-accent">•</tspan> Enterprise AI OS <tspan class="dot-accent">•</tspan> Multimodal AI</text>
+        <text x="110" y="0" class="sans val">SentinelMesh <tspan class="dot-accent">•</tspan> ProofPilot <tspan class="dot-accent">•</tspan> GrantGuardian</text>
       </g>
 
       <!-- Row 4: mindset -->
@@ -133,12 +133,12 @@
     <circle cx="174" cy="50" r="3" fill="#ffffff" />
     <circle cx="174" cy="62" r="3" fill="#ffffff" />
 
-    <!-- Architectural Pillar (Foundations) -->
+    <!-- Architectural Pillar -->
     <rect x="16" y="148" width="22" height="95" fill="#ffffff" />
     <rect x="12" y="142" width="30" height="6" rx="2" fill="#f1f5f9" />
     <rect x="12" y="243" width="30" height="6" rx="2" fill="#f1f5f9" />
 
-    <!-- Hourglass / Timer -->
+    <!-- Hourglass -->
     <path d="M 21 122 L 33 122 L 27 132 L 33 142 L 21 142 L 27 132 Z" fill="#fbbf24" stroke="#d97706" stroke-width="1" />
 
     <!-- Gateway Arch -->
@@ -156,17 +156,17 @@
     <polygon points="63,196 93,196 95,198 61,198" fill="#94a3b8" />
 
     <!-- Developer Avatar Coding -->
-    <circle cx="106" cy="172" r="11" fill="#f43f5e" /> <!-- Hair -->
-    <circle cx="109" cy="175" r="7" fill="#fed7aa" /> <!-- Face -->
-    <path d="M 98 186 C 98 180, 118 180, 120 186 L 122 216 L 96 216 Z" fill="#ef4444" /> <!-- Shirt -->
-    <path d="M 98 216 L 96 244 M 114 216 L 116 244" stroke="#0f172a" stroke-width="6" stroke-linecap="round" /> <!-- Legs -->
+    <circle cx="106" cy="172" r="11" fill="#f43f5e" />
+    <circle cx="109" cy="175" r="7" fill="#fed7aa" />
+    <path d="M 98 186 C 98 180, 118 180, 120 186 L 122 216 L 96 216 Z" fill="#ef4444" />
+    <path d="M 98 216 L 96 244 M 114 216 L 116 244" stroke="#0f172a" stroke-width="6" stroke-linecap="round" />
 
-    <!-- Ambient Foliage -->
+    <!-- Foliage -->
     <ellipse cx="26" cy="112" rx="10" ry="10" fill="#22c55e" />
     <ellipse cx="156" cy="188" rx="8" ry="14" fill="#34d399" />
     <ellipse cx="164" cy="176" rx="6" ry="10" fill="#059669" />
 
-    <!-- Floating Sparkles -->
+    <!-- Sparkles -->
     <path d="M 120 105 L 123 111 L 129 114 L 123 117 L 120 123 L 117 117 L 111 114 L 117 111 Z" fill="#f472b6" />
     <circle cx="180" cy="100" r="3" fill="#fef08a" />
   </g>
