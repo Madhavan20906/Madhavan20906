@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" width="880" height="150" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="quoteCardBg" x1="0" y1="0" x2="880" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0b0f17" />
+      <stop offset="50%" stop-color="#0d111a" />
+      <stop offset="100%" stop-color="#080b11" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="quoteBorderGrad" x1="0" y1="0" x2="880" y2="150" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#30363d" />
+      <stop offset="50%" stop-color="#21262d" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Glowing Accent Underline Gradient -->
+    <linearGradient id="quoteAccentLine" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3fb950" />
+      <stop offset="60%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0b0f17" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .quote-tag { font-size: 11px; fill: #7d8590; letter-spacing: 1.5px; font-weight: 600; }
+    .quote-text { font-size: 21px; fill: #ffffff; font-weight: 700; }
+    .quote-author { font-size: 13.5px; fill: #7d8590; font-weight: 400; }
+  </style>
+
+  <!-- Container -->
+  <rect x="1" y="1" width="878" height="148" rx="12" fill="url(#quoteCardBg)" stroke="url(#quoteBorderGrad)" stroke-width="1.2" />
+
+  <!-- Content -->
+  <g transform="translate(48, 32)">
+    <!-- Small Tag -->
+    <text x="0" y="0" class="mono quote-tag">WORDS TO BUILD BY</text>
+
+    <!-- Main Quote -->
+    <g transform="translate(0, 32)">
+      <text x="0" y="0" class="sans quote-text">“The best way to predict the future is to invent it.”</text>
+    </g>
+
+    <!-- Author -->
+    <g transform="translate(0, 58)">
+      <text x="0" y="0" class="sans quote-author">— Alan Kay</text>
+    </g>
+
+    <!-- Glowing Accent Underline -->
+    <g transform="translate(0, 72)">
+      <line x1="0" y1="0" x2="260" y2="0" stroke="url(#quoteAccentLine)" stroke-width="2.2" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
