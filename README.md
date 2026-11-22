@@ -157,16 +157,10 @@
   <br/><br/>
 
   <!-- ══════════════════════════════════════════════════════════ -->
-  <!--                 07. FOOTER & CYBERPUNK HARDWARE/CODE       -->
+  <!--                 07. FOOTER MOTTO                           -->
   <!-- ══════════════════════════════════════════════════════════ -->
   <p align="center">
     <sub><em>curiosity on. build mode on.</em></sub>
-  </p>
-
-  <p align="center">
-    <img src="./assets/code_workspace.jpg" width="49%" style="border-radius: 8px;" alt="Code workspace" />
-    &nbsp;
-    <img src="./assets/hardware_chip.jpg" width="49%" style="border-radius: 8px;" alt="Hardware circuitry" />
   </p>
 
 </div>
